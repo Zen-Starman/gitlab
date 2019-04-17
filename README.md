@@ -1,4 +1,9 @@
 # gitlab
-##Team * Alex * Bob * Madison
+<<<<<<< HEAD
+##Team 
+* Alex 
+* Bob 
+* Madison 
+* Yanni
 
 pair programming 
