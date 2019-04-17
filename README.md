@@ -5,5 +5,7 @@
 * Bob 
 * Madison 
 * Yanni
+## Clients
+* Mei
 
 pair programming 
