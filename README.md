@@ -1,3 +1,4 @@
 # gitlab
-##Team * Alex
+##Team * Alex * Bob
+
 pair programming 
