@@ -1,6 +1,7 @@
 # gitlab
 <<<<<<< HEAD
 ##Team 
+* Ziggy
 * Alex 
 * Bob 
 * Madison 
